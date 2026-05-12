@@ -42,7 +42,7 @@ What's in the Apache NetBeans 30 release:
 
 https://github.com/apache/netbeans/releases/tag/30
 
-With thanks to 20 contributors, including 1 who have contributed for the first time. Thank you!
+With thanks to 20 contributors, including 2 who have contributed for the first time. Thank you!
 
 Downloads:
 

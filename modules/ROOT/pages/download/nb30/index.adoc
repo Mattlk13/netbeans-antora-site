@@ -100,7 +100,7 @@ They may include other contents (eg. JDK) under additional license terms.
 
 == Deployment Platforms
 
-Apache NetBeans {netbeans-version} supports running on JDK 25, 21 or 17 (with initial support for JDK 26).
+Apache NetBeans {netbeans-version} supports running on JDK 26, 25 or 21.
 
 TIP: The Runtime JDK NetBeans uses does not influence the JDK range projects can use.
 
