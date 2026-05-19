@@ -129,8 +129,8 @@ in a directory of your liking.
 As in any other Apache Project, the Apache NetBeans Community approved this release
 through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
-- link:https://lists.apache.org/thread/79mb2wpgfqwdp1hh79h3z84ststb65g6[PMC vote]
-- link:https://lists.apache.org/thread/mfnz5l1kvjbwjckshgdf9lhc9bzv9jy2[PMC vote result]
+- link:https://lists.apache.org/thread/lgd406gj34oylrwhv8o5x30kykcyw4d3[PMC vote]
+- link:https://lists.apache.org/thread/k9gvzw5t74x1d6yq6yfgpcno1q4vf24z[PMC vote result]
 // TODO update links                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 == Earlier Releases
