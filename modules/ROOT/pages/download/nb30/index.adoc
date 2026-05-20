@@ -23,24 +23,26 @@ See https://www.apache.org/dev/release-download-pages.html
 for important requirements for download pages for Apache projects.
 
 ////
-= Downloading Apache NetBeans 29
+= Downloading Apache NetBeans 30
 :page-layout: page_noaside
 :page-tags: download
 :jbake-status: published
-:keywords: Apache NetBeans 29 Download
-:description: Apache NetBeans 29 Download
+:keywords: Apache NetBeans 30 Download
+:description: Apache NetBeans 30 Download
 :toc: left
 :toc-title:
 :icons: font
 
 // check version above and follow the TODOs
-:netbeans-version: 29
+:netbeans-version: 30
 // TODO            ^^
 
 // https://infra.apache.org/release-distribution.html#download-links
 // TODO base URLs - when archiving, delete the next 2 lines and uncomment the following 2
-:url-download: https://archive.apache.org/dist/netbeans/
-:url-download-keychecksum: https://archive.apache.org/dist/netbeans/
+:url-download: https://www.apache.org/dyn/closer.lua/netbeans/
+:url-download-keychecksum: https://downloads.apache.org/netbeans/
+// :url-download: https://archive.apache.org/dist/netbeans/
+// :url-download-keychecksum: https://archive.apache.org/dist/netbeans/
 
 //// 
 url-download depends of release status archived or not
@@ -52,7 +54,7 @@ https://archive.apache.org/dist/netbeans/  (//archived)
 https://downloads.apache.org/netbeans/ (//current)
 ////
 
-Apache NetBeans {netbeans-version} was released on February 23, 2026.
+Apache NetBeans {netbeans-version} was released on May 18, 2026.
 // TODO update date                                ^^^^
 
 ////
@@ -98,7 +100,7 @@ They may include other contents (eg. JDK) under additional license terms.
 
 == Deployment Platforms
 
-Apache NetBeans {netbeans-version} supports running on JDK 25, 21 or 17 (with initial support for JDK 26).
+Apache NetBeans {netbeans-version} supports running on JDK 26, 25 or 21.
 
 TIP: The Runtime JDK NetBeans uses does not influence the JDK range projects can use.
 
@@ -127,8 +129,8 @@ in a directory of your liking.
 As in any other Apache Project, the Apache NetBeans Community approved this release
 through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
-- link:https://lists.apache.org/thread/79mb2wpgfqwdp1hh79h3z84ststb65g6[PMC vote]
-- link:https://lists.apache.org/thread/mfnz5l1kvjbwjckshgdf9lhc9bzv9jy2[PMC vote result]
+- link:https://lists.apache.org/thread/lgd406gj34oylrwhv8o5x30kykcyw4d3[PMC vote]
+- link:https://lists.apache.org/thread/k9gvzw5t74x1d6yq6yfgpcno1q4vf24z[PMC vote result]
 // TODO update links                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 == Earlier Releases
