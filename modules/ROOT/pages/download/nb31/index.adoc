@@ -88,10 +88,10 @@ The PGP keys used to sign this release are available link:https://downloads.apac
 Linux (.deb / .rpm) built with
 link:https://github.com/apache/netbeans-nbpackage/[NBPackage]. All include a local Temurin JDK
 for the IDE to run on, for a self-contained out-of-the-box experience.
-//- link:https://installers.friendsofapachenetbeans.org/[Friends of Apache NetBeans] - Windows, macOS and
-//Linux (.deb / .rpm) built with
-//link:https://github.com/apache/netbeans-nbpackage/[NBPackage]. All include a local Temurin JDK
-//for the IDE to run on, for a self-contained out-of-the-box experience.
+- link:https://installers.friendsofapachenetbeans.org/[Friends of Apache NetBeans] - Windows, macOS and
+Linux (.deb / .rpm) built with
+link:https://github.com/apache/netbeans-nbpackage/[NBPackage]. All include a local Temurin JDK
+for the IDE to run on, for a self-contained out-of-the-box experience.
 - link:https://snapcraft.io/netbeans[Linux snap package]
 
 IMPORTANT: These installers and packages are provided by various NetBeans committers as a convenience.
