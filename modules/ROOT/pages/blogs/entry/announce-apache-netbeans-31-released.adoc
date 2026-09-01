@@ -19,7 +19,7 @@
 
 = [ANNOUNCE] Apache NetBeans 31 Released
 :author: Eric Barboni
-:page-revdate: 2026-09-10
+:page-revdate: 2026-08-10
 :page-layout: blogentry
 :page-tags: blogentry
 :jbake-status: published
